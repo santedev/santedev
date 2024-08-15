@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Student striving to work on the best projects
+<p align="center" dir="auto">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="32px" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32px" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="32px" />
+</p>
+
 <details open> 
   <summary><h2>📘 Repositories</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
