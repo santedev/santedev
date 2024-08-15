@@ -12,7 +12,7 @@
 
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gothBase&theme=dracula&bg_color=1F222E&hide_border=true)](https://github.com/santedev/gothBase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gothBase&theme=dracula&bg_color=1F222E&hide_border=true&show_icons=false)](https://github.com/santedev/gothBase)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santedev&hide=stars&theme=dracula&bg_color=1F222E&hide_border=true)
 
