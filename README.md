@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <details open> 
-  <summary><h2>📘 Projects</h2></summary>
+  <summary><h2>📘 Repositories</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
@@ -20,7 +20,7 @@
 
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santedev&hide=stars&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santedev&hide=stars&theme=dracula&bg_color=1F222E)
 
 <!--
 **santedev/santedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
