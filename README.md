@@ -2,8 +2,6 @@
 
 <details open> 
   <summary><h2>📘 Projects</h2></summary>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santedev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
@@ -22,7 +20,7 @@
 
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=santedev&theme=dark)](https://git.io/streak-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santedev&hide_border=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **santedev/santedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
