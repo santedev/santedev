@@ -1,10 +1,10 @@
 ## Tools and languages
 <p>
-<img width="62px" src="https://github.com/user-attachments/assets/441fff6a-5a2d-42af-bd39-c0aa745e8b0f" hspace="10" />
-<img width="62px" src="https://github.com/user-attachments/assets/dc787708-87ed-4126-813b-d21b1be61875" hspace="10" />
-<img width="62px" src="https://github.com/user-attachments/assets/b4277e59-9dd7-4d85-81ff-4ced4967dbc2" hspace="10" />
-<img width="62px" src="https://github.com/user-attachments/assets/2560ccdd-a234-41e9-bdd6-d71015062272" hspace="10" />
-<img width="62px" src="https://github.com/user-attachments/assets/0ff33e67-22ec-436e-a3c1-7cf2e05b0bf2" hspace="10" />
+<img width="62px" src="https://github.com/user-attachments/assets/441fff6a-5a2d-42af-bd39-c0aa745e8b0f" hspace="5" />
+<img width="62px" src="https://github.com/user-attachments/assets/dc787708-87ed-4126-813b-d21b1be61875" hspace="5" />
+<img width="62px" src="https://github.com/user-attachments/assets/b4277e59-9dd7-4d85-81ff-4ced4967dbc2" hspace="5" />
+<img width="62px" src="https://github.com/user-attachments/assets/2560ccdd-a234-41e9-bdd6-d71015062272" hspace="5" />
+<img width="62px" src="https://github.com/user-attachments/assets/0ff33e67-22ec-436e-a3c1-7cf2e05b0bf2" hspace="5" />
 </p>
 
 <details open> 
