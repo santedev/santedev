@@ -14,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gothBase&theme=dracula&bg_color=1F222E&hide_border=true&show_icons=false)](https://github.com/santedev/gothBase)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santedev&hide=stars&theme=dracula&bg_color=1F222E&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santedev&hide=stars&theme=dracula&bg_color=1F222E&hide_border=false)
 
 <!--
 **santedev/santedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
