@@ -12,9 +12,9 @@
 
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gothBase&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&icons_color=8BFFD3&show_icons=false)](https://github.com/santedev/gothBase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gothBase&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&icon_color=8BFFD3&show_icons=false)](https://github.com/santedev/gothBase)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gothBase&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&icons_color=8BFFD3&show_icons=false)](https://github.com/santedev/gothBase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gothBase&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&icon_color=8BFFD3&show_icons=false)](https://github.com/santedev/gothBase)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&rank_icon=github&username=santedev&hide=stars&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true)
 
