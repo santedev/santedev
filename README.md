@@ -16,6 +16,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=jobList&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&icon_color=A2D4C1&show_icons=false)](https://github.com/santedev/jobList)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=find-it&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&icon_color=A2D4C1&show_icons=false)](https://github.com/santedev/find-it)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santedev&repo=gallery&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&icon_color=A2D4C1&show_icons=false)](https://github.com/santedev/gallery)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&rank_icon=github&username=santedev&hide=stars&theme=dracula&bg_color=1F222E&title_color=8BFFD3&hide_border=true&ring_color=1F222E)
 
 <!--
