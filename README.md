@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Student striving to work on the best projects
-<p style="display:flex;gap:10px>
+<p style="display:flex;gap:15px;justify-content: center;>
 <img width="42px" src="https://github.com/user-attachments/assets/441fff6a-5a2d-42af-bd39-c0aa745e8b0f" />
 <img width="42px" src="https://github.com/user-attachments/assets/dc787708-87ed-4126-813b-d21b1be61875" />
 <img width="42px" src="https://github.com/user-attachments/assets/b4277e59-9dd7-4d85-81ff-4ced4967dbc2" />
